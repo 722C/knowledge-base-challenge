@@ -57,4 +57,4 @@ python knowledge_base/manage.py migrate
 
 ### Summary
 
-* There are a lot of different directions you can go with this project. Should give you some basic exposure to the Django framework. The [Django documentation](https://docs.djangoproject.com/en/2.1/) explains really clearly how to use models and set up views and do everything you will need for this project. Have fun!
+* There are a lot of different directions you can go with this project. Should give you some basic exposure to the Django framework. The [Django documentation](https://docs.djangoproject.com/en/2.1/) explains clearly how to use models, set up views, work with forms and do everything you will need for this project. Have fun!
