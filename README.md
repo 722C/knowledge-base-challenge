@@ -59,4 +59,4 @@ python knowledge_base/manage.py migrate
 
 ### Summary
 
-* There are a lot of different directions you can go with this project. Should give you some basic exposure to the Django framework. The [Django documentation](https://docs.djangoproject.com/en/2.1/) explains clearly how to use models, set up views, work with forms and do everything you will need for this project. Commit often and push your code to your fork on github and when you are done send us the link to your fork. Have fun!
+* There are a lot of different directions you can go with this project. Should give you some basic exposure to the Django framework. The [Django documentation](https://docs.djangoproject.com/en/2.1/) explains clearly how to use models, set up views, work with forms and do everything you will need for this project. If you find any third party libraries that you want to bring into the project feel free. Just add the requirement to the requirements.txt file and run `docker-compose build` again and re-run `docker-compose up`. Commit often and push your code to your fork on github and when you are done send us the link to your fork. Have fun!
