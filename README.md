@@ -49,10 +49,12 @@ python knowledge_base/manage.py migrate
 
 * Login view for existing users
 * Signup view for new users
+* Logout view for logged in users
 * Post list view - Will be a list of posts. Will only show a post title and tags. Each item in the list will link to the corresponding post detail view. Should be the landing page of the site. Will also have a text input for searching the system. If there has been no search made the list will just show the 10 most recent posts in the system. Once there has been a search the list view will show all results of the search.
 * Post detail view - Shows everything there is to know about a post. The title, description, when it was created, the tags, and the author. Should provide some sort of navigation to go back to the post list view. If a logged in post author is on this view there should be an edit link that takes the user to the form to edit the post.
 * Post edit view - The form that lets only post authors edit an existing post.
 * Post create view - Should be basically the same form as the Post edit view except the form will be empty. Any logged in user can edit this view.
+* Navigation - Some way to from the list view to post detail views and to the signup/login/logout
 
 
 ### Summary
