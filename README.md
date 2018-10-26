@@ -1,11 +1,11 @@
-# knowledge-base-challenge
+# Knowledge Base Challenge
 Starter project for building a simple Knowledge Base app with Django
 
 
 ### Get Dev Environment Running with Docker
 
 * Make sure your computer has Docker installed. See these links for your OS: [Windows](https://docs.docker.com/docker-for-windows/install/), [Mac](https://docs.docker.com/docker-for-mac/install/), [Linux](https://docs.docker.com/v17.12/install/)
-* From github fork this repo: git clone https://github.com/lightningkite/knowledge-base-challenge.git
+* From github [fork](https://help.github.com/articles/fork-a-repo/) this repo: https://github.com/lightningkite/knowledge-base-challenge.git
 * From the terminal clone your fork:
 
 ```
